@@ -1,5 +1,5 @@
 import logging
-import numpy  np
+import numpy np
 import pandas as pd
 import requests
 import ta
